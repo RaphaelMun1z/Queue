@@ -1,0 +1,5 @@
+Fila Estática Linear: Vetor de tamanho definido, que ao remover um item do início, exige o reposicionamento de todos os outros elementos uma posição à esquerda.
+
+Fila Estática Circular: Vetor de tamanho definido com dois índices (inicio e fim) que, ao invés de mover os dados, "dão a volta" (wrap-around) para o começo do vetor quando atingem o final.
+
+Fila Dinâmica Encadeada: Formada por nós alocados dinamicamente, com ponteiros para o inicio e o fim. A inserção ocorre no fim e a remoção ocorre no inicio, sem mover os dados.
